@@ -1,9 +1,9 @@
 >**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
 
 
-# Project Title
+# BikeShare Project
 
-Describe what your project is about and what it does
+This project analyzes bike share data using Python and Git version control workflow. It includes data processing and basic statistics.
 
 ## Information about how to use your project
 
@@ -16,11 +16,11 @@ This could include:
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+This project is part of a Udacity learning assignment.
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits to Udacity for providing the project template.
 
 ## Date created
 
